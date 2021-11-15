@@ -1,0 +1,8 @@
+.env
+
+
+# Local Netlify folder
+.netlify
+studio/package.json
+studio/node_modules
+
